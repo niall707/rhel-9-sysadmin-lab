@@ -245,5 +245,5 @@ Initial installation, storage inspection and administrative account configuratio
 
 ---
 
-This repository is a personal hands-on training environment and technical learning portfolio. It is not a production infrastructure deployment.
+This repository is a personal hands-on training environment and technical learning portfolio. It is not a production infrastructure deployment. 
 
