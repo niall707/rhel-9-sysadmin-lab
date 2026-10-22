@@ -70,7 +70,7 @@ A practical, primarily read-only command reference for first-line Linux incident
 | `findmnt -T /var` | Identify filesystem containing `/var`. |
 | `swapon --show` | Show active swap. |
 
-**Your lab:** `/dev/sda1` contains `/boot` outside LVM; `/dev/sda2` is an LVM physical volume supporting VG `rhel`, with logical volumes for `/`, `/var`, `/home` and swap. Check current free space using `sudo vgs` rather than assuming it has not changed.
+**My lab:** `/dev/sda1` contains `/boot` outside LVM; `/dev/sda2` is an LVM physical volume supporting VG `rhel`, with logical volumes for `/`, `/var`, `/home` and swap. Check current free space using `sudo vgs` rather than assuming it has not changed.
 
 ## 5. CPU, memory and processes
 
